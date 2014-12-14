@@ -1,0 +1,1 @@
+([:dependencies ([org.clojure/clojure "1.6.0"] [enlive/enlive "1.1.5"] [clj-http/clj-http "1.0.1"] [slingshot/slingshot "0.12.1"] [clojurewerkz/urly "1.0.0"] [org.clojure/tools.cli "0.3.1"] [org.clojure/tools.nrepl "0.2.6" :exclusions ([org.clojure/clojure]) :scope "test"] [clojure-complete/clojure-complete "0.2.3" :exclusions ([org.clojure/clojure]) :scope "test"])])
